@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.user-input {
+  width: 600px;
+  height: 50px;
+}
+
+.user-result {
+  width: 600px;
+}
